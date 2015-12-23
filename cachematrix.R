@@ -1,5 +1,5 @@
 ##
-## This functions provide a cache of matrix inverse calculations results
+## These functions provide a cache of matrix inverse calculations results
 ## from the solve() function.  In order to use the cache the matrix
 ## shoudl be passed to makeCacheMatrix() and the resulting matrix used
 ## for further operations.
